@@ -1,0 +1,13 @@
+{
+  "id": "fauzan2/adikara-2024-data-mining-runner",
+  "title": "Adikara 2024 Data Mining runner",
+  "code_file": "run_on_kaggle.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": ["fauzan2/adikara-2024-data-mining-data"],
+  "competition_sources": [],
+  "kernel_sources": []
+}
